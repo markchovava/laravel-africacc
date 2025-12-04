@@ -25,6 +25,7 @@ return Application::configure(basePath: dirname(__DIR__))
             'https://africacc.fldesigners.co.zw',
             'https://africacc.fldesigners.co.zw/',
             'https://africacc.fldesigners.co.zw/*',
+            'https://*.vercel.app', // Allow all preview deployments
             'login',
             'register',
             'login/*',
