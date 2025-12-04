@@ -9,9 +9,10 @@ return [
     'allowed_origins' => [
         'http://localhost:3000',
         'http://127.0.0.1:3000',
-        'https://next-recycle-center-olive.vercel.app',
-        'https://next-recycle-center-olive.vercel.app/login',
-        'https://fldesigners.xyz',
+        'https://next-africacclub.vercel.app/',
+        'https://next-africacclub.vercel.app/login',
+        'https://africacapitalclub.com',
+        'https://www.africacapitalclub.com',
         '',
     ],
     
